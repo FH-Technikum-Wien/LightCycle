@@ -6,26 +6,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ac542e4-8a17-44bd-afb0-52426841044d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LightCycle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LightCycle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/AI/Tasks/BTT_GetSteeringDirection.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AI/Tasks/BTT_GetSteeringDirection.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_GameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BP_GameMode.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_LightCycle.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BP_LightCycle.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_LightWall.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BP_LightWall.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_PlayerController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BP_PlayerController.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/FX/ExplosionSystem.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FX/ExplosionSystem.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/FX/RibbonSystem.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FX/RibbonSystem.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/FX/PS_Ribbon.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FX/PS_Ribbon.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Level/Level_1.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Level/Level_1.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Materials/BlackMirror.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Materials/BlackMirror.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Materials/M_LightCycleStripes.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Materials/M_LightCycleStripes.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Materials/M_LightTrail_2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Materials/M_LightTrail_2.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdParty/StarterContent/Materials/M_Tech_Hex_Tile.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdParty/StarterContent/Materials/M_Tech_Hex_Tile.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/W_DeathScreen.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/W_DeathScreen.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Level/MainMenuLevel.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Level/MainMenuLevel.umap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/UI/W_MainMenu.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/W_MainMenu.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/W_PauseMenu.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/W_PlayerHUD.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/W_PlayerHUD.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/UI/W_WinScreen.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UI/W_WinScreen.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightCycle.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/LightCycle.uproject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/LightCycle/MyClass.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/LightCycle/MyClass.h" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -281,14 +272,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611069727721</updated>
-      <workItem from="1611069734079" duration="8005000" />
+      <workItem from="1611069734079" duration="8605000" />
+      <workItem from="1611151940674" duration="2418000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
